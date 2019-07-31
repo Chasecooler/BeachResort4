@@ -23,7 +23,7 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": "wesbos"
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
